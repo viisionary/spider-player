@@ -1,0 +1,1631 @@
+{
+  "drm": {
+    "data": {
+      "playlist": {
+        "items": [
+          {
+            "widevine_modular_url": "https://videomore.ru/video/file/2c1bbe8d6d8887083f66670e1e20069b/1611685110/483455.mpd",
+            "fairplay_url": "https://user87321.clients-cdnnow.ru/51/458651/master.m3u8",
+            "transaction_id": null,
+            "sub_types": null,
+            "sharing_url": "http://demo.ctclove.ru/projects/serial/ne_rodis_krasivoy/1_sezon/1_seriya/",
+            "season_url": "/projects/serial/ne_rodis_krasivoy/1_sezon/",
+            "project_url": "/projects/serial/ne_rodis_krasivoy/",
+            "linked_tracks": {
+              "previous": null,
+              "next": {
+                "canonicalUrl": "https://ctclove.ru/projects/serial/ne_rodis_krasivoy/1_sezon/2_seriya/",
+                "playerConfig": "https://siren.preprod.ctc.ru/player/config?partner_id=1990&track_id=458645&userToken=",
+                "caption": "2 серия",
+                "thumbnail": "https://ctclove.ru/upload/iblock/d4d/d4dd9cc24938773c40b8b0ba9409ba49.jpg",
+                "season": "1",
+                "episode": "2",
+                "track_id": "458645"
+              }
+            },
+            "auto_switch": {
+              "point": 2469,
+              "countdown": 30,
+              "caption": "Следующая серия",
+              "title": "Не родись красивой",
+              "subtitle": "Сезон 1 серия 2"
+            },
+            "paid": false,
+            "heartbeat_tns_counter_v1_3": {
+              "link": "https://www.tns-counter.ru/V13a**$$$params$$$**ctcmedia_tv/ru/UTF-8/tmsec=ctcmedia_videomore-hb30/",
+              "params": [
+                {
+                  "key": "catid",
+                  "value": 1
+                },
+                {
+                  "key": "vcid",
+                  "value": 458651
+                },
+                {
+                  "key": "vcver",
+                  "value": 0
+                },
+                {
+                  "key": "fts",
+                  "value": "FTS"
+                },
+                {
+                  "key": "vts",
+                  "value": "VTS"
+                },
+                {
+                  "key": "evtp",
+                  "value": 2
+                },
+                {
+                  "key": "dvtp",
+                  "value": "DeviceType"
+                },
+                {
+                  "key": "adid",
+                  "value": "AndroidDeviceID"
+                },
+                {
+                  "key": "advid",
+                  "value": "AdvertisingID"
+                },
+                {
+                  "key": "idfa",
+                  "value": "IDFA"
+                },
+                {
+                  "key": "dvid",
+                  "value": "DeviceID"
+                },
+                {
+                  "key": "mac",
+                  "value": "MacAddress"
+                },
+                {
+                  "key": "app",
+                  "value": "ApplicationID"
+                }
+              ]
+            },
+            "tns_counter": {
+              "video_load": "https://www.tns-counter.ru/V13a****more_tv/ru/CP1251/tmsec=more_invp/658724588",
+              "video_start": "https://www.tns-counter.ru/V13a****more_tv/ru/CP1251/tmsec=more_invs/924483460",
+              "video_end": "https://www.tns-counter.ru/V13a****more_tv/ru/CP1251/tmsec=more_inve/555915854"
+            },
+            "thumbnail_url": "https://thumbnails.megafon.videomore.ru/system/images/thumbs/35/00/8550035_big.jpg?1511317351",
+            "season_name": "1 сезон",
+            "views": 9566,
+            "duration": 2865,
+            "confirm_min_age": false,
+            "feature_film": false,
+            "min_age": 12,
+            "track_id": 458651,
+            "project_id": 27409,
+            "previews_mp4": [
+              "https://videomore.ru/video/preview/54940.preview_mp4"
+            ],
+            "previews_hls": ["https://videomore.ru/video/preview/54940.live"],
+            "drm": "adobe",
+            "episode_name": "1 серия",
+            "project_name": "Не родись красивой",
+            "midrolls": {
+              "points": [
+                {
+                  "point": 516.85
+                },
+                {
+                  "point": 1252.85
+                },
+                {
+                  "point": 1908.9
+                },
+                {
+                  "point": 2500.45
+                }
+              ],
+              "start_time": 0,
+              "max_midrolls": 5,
+              "freq_time": 0,
+              "freq_points": 1,
+              "skip_adv": 2400,
+              "url": [
+                {
+                  "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bzipu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187678&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&"
+                },
+                {
+                  "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bziqg&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187679&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&"
+                },
+                {
+                  "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bziqg&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187699&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&"
+                },
+                {
+                  "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bziqg&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187699&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&"
+                },
+                {
+                  "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bzirf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187687&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&"
+                },
+                {
+                  "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=1&puid15=0&puid21=0&"
+                },
+                {
+                  "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=2&puid15=0&puid21=0&"
+                },
+                {
+                  "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=3&puid15=0&puid21=0&"
+                },
+                {
+                  "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=4&puid15=0&puid21=0&"
+                },
+                {
+                  "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=pdpg&puid15=0&puid21=0&"
+                },
+                {
+                  "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=pd&puid15=0&puid21=0&"
+                },
+                {
+                  "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=5&puid15=0&puid21=0&"
+                },
+                {
+                  "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=6&puid15=0&puid21=0&"
+                },
+                {
+                  "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=7&puid15=0&puid21=0&"
+                },
+                {
+                  "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=8&puid15=0&puid21=0&"
+                },
+                {
+                  "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=9&puid15=0&puid21=0&"
+                },
+                {
+                  "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=10&puid15=0&puid21=0&"
+                },
+                {
+                  "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=11&puid15=0&puid21=0&"
+                },
+                {
+                  "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=12&puid15=0&puid21=0&"
+                },
+                {
+                  "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bzirf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187687&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&",
+                  "type": "promo"
+                }
+              ]
+            },
+            "contentrolls": {
+              "points": [
+                {
+                  "point": 180,
+                  "placeholders": {
+                    "id": 0,
+                    "sponsorship": "p1=bzywa&p2=fwac&puid3=187696"
+                  }
+                }
+              ],
+              "url": [
+                {
+                  "item": "https://ads.adfox.ru/264443/getCode?puid3=$$$PUID3$$$&puid21=$$$PUID21$$$&puid8=&puid1=283&$$$sponsorship$$$&puid2=$$$plid$$$&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&puid29=$$$id$$$&eid1=$$$eid1$$$&puid20=0&puid15=0&"
+                },
+                {
+                  "item": "",
+                  "type": "promo"
+                }
+              ]
+            },
+            "streams": [
+              {
+                "protocol": "DASH",
+                "drm_type": "widevine",
+                "ls_url": "https://ctc.drmnow.ru/widevine",
+                "url": "https://anubis.preprod.more.tv/vod/1/dash/wv_pr/BeHmWN5Ep54_48NS2J35XA/0531638f8011df7d0033c6d95c571fd8-,q1,q2,q3,.mp4.urlset/manifest.mpd?s=4J_A73yFArkQi9GLBA_BIQ&e=1611684390&track_id=458651",
+                "manifest_expires_at": 1611684390,
+                "id": 1
+              },
+              {
+                "protocol": "DASH",
+                "drm_type": "playready",
+                "ls_url": "https://ctc.drmnow.ru/playready/rightsmanager.asmx",
+                "url": "https://anubis.preprod.more.tv/vod/1/dash/wv_pr/BeHmWN5Ep54_48NS2J35XA/0531638f8011df7d0033c6d95c571fd8-,q1,q2,q3,.mp4.urlset/manifest.mpd?s=4J_A73yFArkQi9GLBA_BIQ&e=1611684390&track_id=458651",
+                "manifest_expires_at": 1611684390,
+                "id": 2
+              },
+              {
+                "protocol": "MSS",
+                "drm_type": "playready",
+                "ls_url": "https://ctc.drmnow.ru/playready/rightsmanager.asmx",
+                "url": "https://anubis.preprod.more.tv/vod/1/mss/pr/YIgG0WBLRQJW6bXwTbUlMg/0531638f8011df7d0033c6d95c571fd8-,q1,q2,q3,.ism/manifest?s=NE6Fq0FRWz-wxSY1eClTYg&e=1611684390&track_id=458651",
+                "manifest_expires_at": 1611684390,
+                "id": 3
+              },
+              {
+                "protocol": "HLS",
+                "drm_type": "fairplay",
+                "ls_url": "https://ctc.drmnow.ru/fairplay",
+                "url": "https://anubis.preprod.more.tv/vod/1/hls/fp/0OptnrOxEb-BJtKGo_EmgA/0531638f8011df7d0033c6d95c571fd8-,q1,q2,q3,.mp4.urlset/master.m3u8?s=xWXqDsR2IhPqeIaynDgWzg&e=1611684390&track_id=458651",
+                "manifest_expires_at": 1611684390,
+                "id": 4
+              }
+            ],
+            "streaming_origin": "HUB"
+          }
+        ]
+      },
+      "config": {
+        "sid": "3a4c0696-48cd-4a46-89c1-a1770ff8a727",
+        "user_id": null,
+        "project_id": 27409,
+        "videofile_id": 483455,
+        "stat_url": "https://demon.videomore.ru:8081",
+        "skin_id": 536,
+        "ref": "odysseus.preprod.more.tv",
+        "pre_image": "https://videomore.ru/system/images/adv_images/61_normal.gif?1515498719",
+        "post_image": "https://videomore.ru/system/images/adv_images/69_normal.gif?1515499007",
+        "ad": {
+          "pre_roll": {
+            "params": {
+              "type": "vast",
+              "limiter": 4
+            },
+            "items": [
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bzhdx&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187683&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bziqm&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187684&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bziqm&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187698&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bziqm&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187698&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bzirc&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187689&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=1&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=2&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=3&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=4&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=pdpg&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=pd&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=5&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=6&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=7&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=8&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=9&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=10&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=11&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=12&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bzirc&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187689&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&",
+                "type": "promo"
+              }
+            ]
+          },
+          "mid_roll": {
+            "params": {
+              "type": "vast",
+              "limiter": 4
+            },
+            "items": [
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bzipu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187678&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bziqg&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187679&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bziqg&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187699&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bziqg&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187699&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bzirf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187687&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=1&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=2&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=3&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=4&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=pdpg&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=pd&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=5&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=6&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=7&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=8&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=9&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=10&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=11&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=12&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bzirf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187687&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&",
+                "type": "promo"
+              }
+            ]
+          },
+          "pause_roll": {
+            "params": {
+              "type": "vast",
+              "limiter": 2
+            },
+            "items": [
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bziqa&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187685&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bziqd&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187686&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bziri&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187690&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=1&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=2&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=3&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=4&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=pdpg&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=pd&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=5&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=6&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=7&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=8&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=9&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=10&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=11&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=12&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bziri&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187690&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&",
+                "type": "promo"
+              }
+            ]
+          },
+          "post_roll": {
+            "params": {
+              "type": "vast",
+              "limiter": 2
+            },
+            "items": [
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bzipx&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187681&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bziqj&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187682&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bzirl&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187688&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=1&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=2&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=3&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=4&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=pdpg&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=pd&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=5&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=6&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=7&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=8&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=9&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=10&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=11&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=12&puid15=0&puid21=0&"
+              },
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bzirl&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187688&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&",
+                "type": "promo"
+              }
+            ]
+          },
+          "pre_pause_roll": {
+            "params": {
+              "type": "vast",
+              "limiter": 2
+            },
+            "items": [
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid8=&p1=bziqw&p2=fumg&puid1=283&puid2=$$$plid$$$&puid3=187680&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&"
+              },
+              {
+                "item": "",
+                "type": "promo"
+              }
+            ]
+          },
+          "content_roll": {
+            "params": {
+              "type": "vast",
+              "limiter": 1
+            },
+            "items": [
+              {
+                "item": "https://ads.adfox.ru/264443/getCode?puid3=$$$PUID3$$$&puid21=$$$PUID21$$$&puid8=&puid1=283&$$$sponsorship$$$&puid2=$$$plid$$$&puid4=0&puid5=27409&puid6=20639&puid7=1&puid9=1&puid10=1&puid11=187643&puid12=186092&puid13=186102&puid16=1&puid29=$$$id$$$&eid1=$$$eid1$$$&puid20=0&puid15=0&"
+              },
+              {
+                "item": "",
+                "type": "promo"
+              }
+            ]
+          }
+        },
+        "scrobbling": {
+          "period": 30,
+          "hostname": "https://beholder.preprod.more.tv",
+          "mandatory_points": [5, 95],
+          "service_id": null
+        },
+        "skin_data": {
+          "config_source": "SIREN_CTC",
+          "skin_theme_class": "CTC_LOVE",
+          "partner_id": 1990,
+          "embedded": {
+            "NEXT_EPISODE": "POSTMESSAGE",
+            "PREV_EPISODE": "POSTMESSAGE",
+            "SPLASH_SCREEN_VARIATION": null,
+            "SUBSCRIPTION_TITLE": "",
+            "AUTOPLAY": "ON",
+            "ADV_CACHE_LOOKAHEAD": "10000",
+            "ADV_CACHE_TIMEOUT": "1000",
+            "ADV_MAX_TIMELINE_OFFSET": "1000",
+            "ADV_PLAY_WAIT_TIMEOUT": "500",
+            "ADV_INTERSECTION_TIMEOUT": "180000",
+            "ADV_PAUSE_ROLL_ACTIVATE_TIMEOUT": "5000",
+            "ADV_START_WARNING": "5000",
+            "CONTROLS": true,
+            "DISABLE_BEHOLDER": false,
+            "INFO_BAR_LOGO": false,
+            "LOGO_LINK_TO_HOME": true,
+            "TITLE_LINKS": false,
+            "NEXT_EPISODE_AUTOPLAY": true,
+            "NEXT_EPISODE_AUTOPLAY_SUGGEST": true,
+            "RESTORE_SUBSCRIPTION": false,
+            "SHARING": true,
+            "SHOW_LOGO_CONTROL": false,
+            "SUBSCRIPTION": true,
+            "THUMBNAIL_LOGO": true,
+            "SUBSCRIPTION_PREVIEW": true,
+            "ANDROID_APP_LINK": "",
+            "IOS_APP_LINK": "",
+            "ALLOW_FULLSCREEN": true,
+            "PAK_FALLBACK_SRC": true,
+            "FORCE_PUID_4": false
+          },
+          "base": {
+            "NEXT_EPISODE": "POSTMESSAGE",
+            "PREV_EPISODE": "POSTMESSAGE",
+            "SPLASH_SCREEN_VARIATION": null,
+            "SUBSCRIPTION_TITLE": "",
+            "AUTOPLAY": "ON",
+            "ADV_CACHE_LOOKAHEAD": "10000",
+            "ADV_CACHE_TIMEOUT": "1000",
+            "ADV_MAX_TIMELINE_OFFSET": "1000",
+            "ADV_PLAY_WAIT_TIMEOUT": "500",
+            "ADV_INTERSECTION_TIMEOUT": "180000",
+            "ADV_PAUSE_ROLL_ACTIVATE_TIMEOUT": "5000",
+            "ADV_START_WARNING": "5000",
+            "CONTROLS": true,
+            "DISABLE_BEHOLDER": false,
+            "INFO_BAR_LOGO": false,
+            "LOGO_LINK_TO_HOME": true,
+            "TITLE_LINKS": false,
+            "NEXT_EPISODE_AUTOPLAY": true,
+            "NEXT_EPISODE_AUTOPLAY_SUGGEST": true,
+            "RESTORE_SUBSCRIPTION": false,
+            "SHARING": true,
+            "SHOW_LOGO_CONTROL": false,
+            "SUBSCRIPTION": true,
+            "THUMBNAIL_LOGO": true,
+            "SUBSCRIPTION_PREVIEW": false,
+            "ANDROID_APP_LINK": "",
+            "IOS_APP_LINK": "",
+            "ALLOW_FULLSCREEN": true,
+            "PAK_FALLBACK_SRC": true,
+            "FORCE_PUID_4": false
+          },
+          "id": "600e8908159b1a00129b167c"
+        }
+      }
+    }
+  },
+  "nodrm": {
+    "data": {
+      "playlist": {
+        "items": [
+          {
+            "hls_url": null,
+            "dash_url": null,
+            "transaction_id": null,
+            "sub_types": "svod",
+            "sharing_url": "https://more.tv/bitva_interierov/1_sezon/1_vypusk",
+            "linked_tracks": {
+              "previous": null,
+              "next": {
+                "canonicalUrl": "/bitva_interierov/1_sezon/2_vypusk",
+                "playerConfig": "https://siren.more.tv/player/config?track_id=19567&partner_id=1788&user_token=",
+                "playerUrl": "https://odysseus.more.tv/player/1788/19567",
+                "caption": "2 Серия",
+                "thumbnail": "https://static.more.tv/images/Track/19859/HpJa7WgQCL9iy3tjufemDWVIxRihIVN8Tny2qqCv.jpg",
+                "season": 1,
+                "episode": 2,
+                "trackId": 19859,
+                "trackHubId": 19567,
+                "projectId": 679,
+                "trackVod": {
+                  "link": "https://siren.more.tv/player/config?track_id=19567&partner_id=1788&user_token=",
+                  "playerLink": "https://odysseus.more.tv/player/1788/19567",
+                  "queryParams": {
+                    "previewFrom": null,
+                    "previewTo": null,
+                    "sign": null,
+                    "p2p": 0
+                  }
+                }
+              }
+            },
+            "auto_switch": {
+              "point": 2635,
+              "countdown": 5,
+              "caption": "Следующий выпуск",
+              "caption_v2": "Начать",
+              "project_poster": null
+            },
+            "paid": false,
+            "heartbeat_tns_counter_v1_3": {
+              "link": "https://www.tns-counter.ru/V13a**$$$params$$$**ctcmedia_tv/ru/UTF-8/tmsec=ctcmedia_videomore-hb30/",
+              "params": [
+                {
+                  "key": "catid",
+                  "value": 1
+                },
+                {
+                  "key": "vcid",
+                  "value": 19363
+                },
+                {
+                  "key": "vcver",
+                  "value": 0
+                },
+                {
+                  "key": "fts",
+                  "value": "FTS"
+                },
+                {
+                  "key": "vts",
+                  "value": "VTS"
+                },
+                {
+                  "key": "evtp",
+                  "value": 2
+                },
+                {
+                  "key": "dvtp",
+                  "value": "DeviceType"
+                },
+                {
+                  "key": "adid",
+                  "value": "AndroidDeviceID"
+                },
+                {
+                  "key": "advid",
+                  "value": "AdvertisingID"
+                },
+                {
+                  "key": "idfa",
+                  "value": "IDFA"
+                },
+                {
+                  "key": "dvid",
+                  "value": "DeviceID"
+                },
+                {
+                  "key": "mac",
+                  "value": "MacAddress"
+                },
+                {
+                  "key": "app",
+                  "value": "ApplicationID"
+                }
+              ]
+            },
+            "tns_counter": {
+              "video_load": "https://www.tns-counter.ru/V13a****more_tv/ru/CP1251/tmsec=more_invp/298581344",
+              "video_start": "https://www.tns-counter.ru/V13a****more_tv/ru/CP1251/tmsec=more_invs/117051312",
+              "video_end": "https://www.tns-counter.ru/V13a****more_tv/ru/CP1251/tmsec=more_inve/113103930"
+            },
+            "thumbnail_url": "https://thumbnails.megafon.videomore.ru/system/images/thumbs/23/36/233623_big.jpg?1510929615",
+            "season_name": "1 сезон",
+            "views": 13762,
+            "duration": 2662,
+            "confirm_min_age": false,
+            "feature_film": false,
+            "min_age": 16,
+            "track_id": 19363,
+            "project_id": 19365,
+            "drm": "false",
+            "previews_mp4": [],
+            "previews_hls": [],
+            "episode_name": "1 выпуск",
+            "project_name": "Битва интерьеров",
+            "midrolls": {
+              "points": [
+                {
+                  "point": 120
+                },
+                {
+                  "point": 475
+                },
+                {
+                  "point": 2588
+                }
+              ],
+              "start_time": 0,
+              "max_midrolls": 2,
+              "freq_time": 0,
+              "freq_points": 1,
+              "skip_adv": 144000,
+              "url": [
+                {
+                  "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bzipu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187678&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+                },
+                {
+                  "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bziqg&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187679&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&extid_tag=adfox&puid37=29:33&"
+                },
+                {
+                  "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bziqg&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187699&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&extid_tag=adfox&puid37=29:33&"
+                },
+                {
+                  "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bziqg&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187699&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&extid_tag=adfox&puid37=29:33&"
+                },
+                {
+                  "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=1&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+                },
+                {
+                  "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=2&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+                },
+                {
+                  "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=3&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+                },
+                {
+                  "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=4&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+                },
+                {
+                  "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=5&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+                },
+                {
+                  "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=6&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+                },
+                {
+                  "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=7&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+                },
+                {
+                  "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=8&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+                },
+                {
+                  "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=9&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+                },
+                {
+                  "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=10&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+                },
+                {
+                  "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=11&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+                },
+                {
+                  "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=12&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+                },
+                {
+                  "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=13&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+                },
+                {
+                  "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=14&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+                },
+                {
+                  "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=15&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+                },
+                {
+                  "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bzirf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187687&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+                },
+                {
+                  "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bzirf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187687&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&",
+                  "type": "promo"
+                }
+              ]
+            },
+            "contentrolls": {
+              "points": [
+                {
+                  "point": 180,
+                  "placeholders": {
+                    "id": 0,
+                    "sponsorship": "p1=bzywa&p2=fwac&puid3=187696"
+                  }
+                },
+                {
+                  "point": 1200,
+                  "placeholders": {
+                    "id": 3290,
+                    "sponsorship": "p1=bziqz&p2=fumf&puid3=187691"
+                  }
+                }
+              ],
+              "url": [
+                {
+                  "item": "https://yandex.ru/ads/adfox/264443/getCode?puid3=$$$PUID3$$$&puid21=$$$PUID21$$$&puid8=&puid1=283&$$$sponsorship$$$&puid2=$$$plid$$$&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&puid29=$$$id$$$&eid1=$$$eid1$$$&puid20=0&puid15=0&extid_tag=adfox&puid37=29:33&"
+                },
+                {
+                  "item": "",
+                  "type": "promo"
+                }
+              ]
+            },
+            "streams": [
+              {
+                "protocol": "HLS",
+                "drm_type": null,
+                "ls_url": null,
+                "url": "https://anubis.more.tv/vod/4/hls/fta/X2d1_EmE6gzFuQpKIYPpxw/89ec93c7cf571fdbd644d042319e1b44-,hd10,hd20,hd30,.mp4.urlset/master.m3u8?s=-6Qmf-OfN2HIZ9HYbhYtOA&e=1646305012&track_id=19363",
+                "manifest_expires_at": 1646305012,
+                "id": 1
+              },
+              {
+                "protocol": "MSS",
+                "drm_type": null,
+                "ls_url": null,
+                "url": "https://anubis.more.tv/vod/4/mss/fta/l2uk5YKTNV4Gx6fxPuZg3g/89ec93c7cf571fdbd644d042319e1b44-,hd10,hd20,hd30,.ism/manifest?s=nMbjt6nECJUTTeALY0FLpA&e=1646305012&track_id=19363",
+                "manifest_expires_at": 1646305012,
+                "id": 2
+              },
+              {
+                "protocol": "DASH",
+                "drm_type": null,
+                "ls_url": null,
+                "url": "https://anubis.more.tv/vod/4/dash/fta/kYtpuNGDHOm541X-XCQkDw/89ec93c7cf571fdbd644d042319e1b44-,hd10,hd20,hd30,.mp4.urlset/manifest.mpd?s=GBd9yWZpKdztpoYT5nAwdg&e=1646305012&track_id=19363",
+                "manifest_expires_at": 1646305012,
+                "id": 3
+              }
+            ],
+            "streaming_origin": "HUB"
+          }
+        ]
+      },
+      "config": {
+        "sid": "bb84886b-346b-41c4-8e5b-16d998df425e",
+        "user_id": null,
+        "project_id": 19365,
+        "videofile_id": 1066166,
+        "stat_url": "https://demon.videomore.ru:8082",
+        "skin_id": 510,
+        "ref": "more.tv",
+        "puid12": {
+          "site": 186151,
+          "embed": 186152
+        },
+        "pre_image": "https://videomore.ru/system/images/adv_images/61_normal.gif?1515498719",
+        "post_image": "https://videomore.ru/system/images/adv_images/69_normal.gif?1515499007",
+        "ad": {
+          "mid_roll": {
+            "params": {
+              "type": "vast",
+              "limiter": 2
+            },
+            "items": [
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bzipu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187678&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bziqg&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187679&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bziqg&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187699&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bziqg&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187699&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=1&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=2&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=3&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=4&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=5&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=6&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=7&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=8&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=9&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=10&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=11&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=12&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=13&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=14&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqy&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187693&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=15&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bzirf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187687&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bzirf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187687&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&",
+                "type": "promo"
+              }
+            ]
+          },
+          "pause_roll": {
+            "params": {
+              "type": "vast",
+              "limiter": 2
+            },
+            "items": [
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bziqa&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187685&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bziqd&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187686&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=1&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=2&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=3&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=4&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=5&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=6&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=7&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=8&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=9&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=10&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=11&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=12&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=13&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=14&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrf&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187695&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=15&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bziri&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187690&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bziri&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187690&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&",
+                "type": "promo"
+              }
+            ]
+          },
+          "post_roll": {
+            "params": {
+              "type": "vast",
+              "limiter": 2
+            },
+            "items": [
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bzipx&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187681&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bziqj&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187682&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=1&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=2&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=3&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=4&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=5&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=6&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=7&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=8&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=9&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=10&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=11&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=12&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=13&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=14&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canrb&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187694&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=15&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bzirl&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187688&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bzirl&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187688&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&",
+                "type": "promo"
+              }
+            ]
+          },
+          "content_roll": {
+            "params": {
+              "type": "vast",
+              "limiter": 1
+            },
+            "items": [
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid3=$$$PUID3$$$&puid21=$$$PUID21$$$&puid8=&puid1=283&$$$sponsorship$$$&puid2=$$$plid$$$&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&puid29=$$$id$$$&eid1=$$$eid1$$$&puid20=0&puid15=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "",
+                "type": "promo"
+              }
+            ]
+          },
+          "pre_roll": {
+            "params": {
+              "type": "vast",
+              "limiter": 2
+            },
+            "items": [
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bzhdx&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187683&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&extid_tag=adfox&pt=b&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bziqm&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187684&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&extid_tag=adfox&pt=b&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bziqm&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187698&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&extid_tag=adfox&pt=b&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bziqm&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187698&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&extid_tag=adfox&pt=b&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=1&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=2&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=3&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=4&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=5&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=6&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=7&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=8&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=9&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=10&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=11&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=12&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=13&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=14&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=canqu&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187692&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=15&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bzirc&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187689&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?puid8=&p1=bzirc&p2=fuki&puid1=283&puid2=$$$plid$$$&puid3=187689&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid20=0&puid15=0&puid21=0&extid_tag=adfox&puid37=29:33&",
+                "type": "promo"
+              }
+            ]
+          },
+          "pre_pause_roll": {
+            "params": {
+              "type": "vast",
+              "limiter": 1
+            },
+            "items": [
+              {
+                "item": "https://yandex.ru/ads/adfox/264443/getCode?p1=bziqw&p2=fumg&puid1=283&puid2=$$$plid$$$&puid3=187680&puid4=3172&puid5=19365&puid6=327&puid7=3&puid9=1&puid10=1&puid11=187646&puid12=186151&puid13=186102&puid16=1&eid1=$$$eid1$$$&puid15=0&puid21=0&puid20=0&extid_tag=adfox&puid37=29:33&"
+              },
+              {
+                "item": "",
+                "type": "promo"
+              }
+            ]
+          }
+        },
+        "scrobbling": {
+          "hostname": "https://beholder.more.tv",
+          "period": 30,
+          "mandatory_points": [5, 95],
+          "service_id": 1
+        },
+        "skin_data": {
+          "config_source": "HUB",
+          "skin_theme_class": "MORE_TV",
+          "partner_id": 1788,
+          "base": {
+            "NEXT_EPISODE": "POSTMESSAGE",
+            "PREV_EPISODE": "POSTMESSAGE",
+            "SPLASH_SCREEN_VARIATION": "null",
+            "SUBSCRIPTION_TITLE": "Отключить рекламу",
+            "SUBSCRIPTION_PREVIEW": "HUB",
+            "AUTOPLAY": "ALWAYS",
+            "ADV_CACHE_LOOKAHEAD": "7000",
+            "ADV_CACHE_TIMEOUT": "4000",
+            "ADV_PLAY_WAIT_TIMEOUT": "4000",
+            "ADV_INTERSECTION_TIMEOUT": "180000",
+            "ADV_START_WARNING": "5000",
+            "CONTROLS": true,
+            "DISABLE_BEHOLDER": false,
+            "INFO_BAR_LOGO": false,
+            "LOGO_LINK_TO_HOME": false,
+            "TITLE_LINKS": false,
+            "NEXT_EPISODE_AUTOPLAY": true,
+            "NEXT_EPISODE_AUTOPLAY_SUGGEST": true,
+            "RESTORE_SUBSCRIPTION": false,
+            "SHARING": true,
+            "SHOW_LOGO_CONTROL": false,
+            "SUBSCRIPTION": true,
+            "THUMBNAIL_LOGO": false,
+            "ANDROID_APP_LINK": "https://play.google.com/store/apps/details?id=com.ctcmediagroup.videomore ",
+            "IOS_APP_LINK": "https://apps.apple.com/ru/app/id609430840?mt=8&ls=1",
+            "ALLOW_FULLSCREEN": true,
+            "PAK_FALLBACK_SRC": false,
+            "FORCE_PUID_4": false,
+            "SHOW_AD_NUMBER": true,
+            "SENTRY_ENABLED": true,
+            "TOKEN_UPDATE": true,
+            "LIMIT_QUALITY": false,
+            "FEATURE_COMPLAIN": true,
+            "ENABLE_FAVOURITES": true,
+            "HORUS_ENABLED": true,
+            "YOUBORA_ENABLED": true,
+            "PROMO_OFFER_BUTTON": "{\"enable\": true, \"SVOD\": true, \"AVOD\": false, \"FREE\": true}",
+            "DISCLAIMER_AGE_RESTRICTIONS": {
+              "images": {
+                "16": "https://static.more.tv/more/trial_popup/splash_screen_16_18.jpg",
+                "18": "https://static.more.tv/more/trial_popup/splash_screen_16_18.jpg"
+              },
+              "show_duration": 3.5
+            },
+            "TRIAL_SUGGESTION": {
+              "suggestionDisplayDuration": 15,
+              "afterPrerollsInterval": 16,
+              "beforePauserollsInterval": 16,
+              "afterMidrollsInterval": 16
+            },
+            "AD_SPLASH_SCREEN_IMAGE": "https://static.more.tv/more/trial_popup/splashscreen_telki.jpg",
+            "AD_SPLASH_SCREEN_DURATION": 4
+          },
+          "embedded": {
+            "NEXT_EPISODE": "POSTMESSAGE",
+            "PREV_EPISODE": "POSTMESSAGE",
+            "SPLASH_SCREEN_VARIATION": "null",
+            "SUBSCRIPTION_TITLE": "Отключить рекламу",
+            "SUBSCRIPTION_PREVIEW": "HUB",
+            "AUTOPLAY": "ALWAYS",
+            "ADV_CACHE_LOOKAHEAD": "7000",
+            "ADV_CACHE_TIMEOUT": "4000",
+            "ADV_PLAY_WAIT_TIMEOUT": "4000",
+            "ADV_INTERSECTION_TIMEOUT": "0",
+            "ADV_PAUSE_ROLL_ACTIVATE_TIMEOUT": "0",
+            "ADV_START_WARNING": "5000",
+            "CONTROLS": true,
+            "DISABLE_BEHOLDER": false,
+            "INFO_BAR_LOGO": true,
+            "LOGO_LINK_TO_HOME": true,
+            "TITLE_LINKS": false,
+            "NEXT_EPISODE_AUTOPLAY": true,
+            "NEXT_EPISODE_AUTOPLAY_SUGGEST": true,
+            "RESTORE_SUBSCRIPTION": false,
+            "SHARING": true,
+            "SHOW_LOGO_CONTROL": false,
+            "SUBSCRIPTION": true,
+            "THUMBNAIL_LOGO": false,
+            "ANDROID_APP_LINK": "https://play.google.com/store/apps/details?id=com.ctcmediagroup.videomore",
+            "IOS_APP_LINK": "https://apps.apple.com/ru/app/id609430840?mt=8&ls=1",
+            "ALLOW_FULLSCREEN": true,
+            "PAK_FALLBACK_SRC": false,
+            "FORCE_PUID_4": false,
+            "SHOW_AD_NUMBER": true,
+            "SENTRY_ENABLED": true,
+            "TOKEN_UPDATE": false,
+            "LIMIT_QUALITY": false,
+            "FEATURE_COMPLAIN": true,
+            "ENABLE_FAVOURITES": true,
+            "HORUS_ENABLED": false,
+            "YOUBORA_ENABLED": false,
+            "PROMO_OFFER_BUTTON": "{\"enable\": true, \"SVOD\": true, \"AVOD\": false, \"FREE\": true}",
+            "DISCLAIMER_AGE_RESTRICTIONS": {
+              "images": {
+                "16": "https://static.more.tv/more/trial_popup/splash_screen_16_18.jpg",
+                "18": "https://static.more.tv/more/trial_popup/splash_screen_16_18.jpg"
+              },
+              "show_duration": 3.5
+            },
+            "TRIAL_SUGGESTION": false,
+            "AD_SPLASH_SCREEN_IMAGE": "https://static.more.tv/more/trial_popup/splashscreen_telki.jpg",
+            "AD_SPLASH_SCREEN_DURATION": 4
+          },
+          "partner_description": "",
+          "partner_name": "",
+          "id": "5ede5aee80ff5a00196ae557"
+        }
+      },
+      "serviceTariffs": [
+        {
+          "id": 3,
+          "name": "Базовый уровень",
+          "options": [
+            {
+              "title": "Сериалы, снятые специально для more.tv",
+              "label": "INCLUDED"
+            },
+            {
+              "title": "Мировые премьеры от HBO Max, Hulu, FOXNOW",
+              "label": "INCLUDED"
+            },
+            {
+              "title": "Российские сериалы до выхода на ТВ",
+              "label": "INCLUDED"
+            },
+            {
+              "title": "Фильмы и сериалы без рекламы",
+              "label": "INCLUDED"
+            }
+          ],
+          "advantages": [
+            {
+              "type": "UFC 249",
+              "description": "Преимущества в moretv.sport",
+              "items": [
+                {
+                  "title": "Доступ к российским сериалам до эфира на ТВ"
+                },
+                {
+                  "title": "Зарубежные премьеры одновременно с миром"
+                },
+                {
+                  "title": "Просмотр без рекламы"
+                }
+              ],
+              "payButton": {
+                "isActive": true,
+                "payButtonText": "Подписаться и смотреть",
+                "payButtonColor": "#21a4f7",
+                "payButtonTextColor": "#ffffff"
+              },
+              "substrateGallery": {
+                "JPEG": {
+                  "W176H87": {
+                    "url": "https://mf-static-ssl.more.tv/jackal/1313084/784dc2ee-4e2e-4bce-aee0-bfaadde18e85_W176_H87.jpg",
+                    "width": 176,
+                    "height": 87,
+                    "aspectRatio": 2.02
+                  },
+                  "W352H174": {
+                    "url": "https://mf-static-ssl.more.tv/jackal/1313084/784dc2ee-4e2e-4bce-aee0-bfaadde18e85_W352_H174.jpg",
+                    "width": 352,
+                    "height": 174,
+                    "aspectRatio": 2.02
+                  },
+                  "W460H227": {
+                    "url": "https://mf-static-ssl.more.tv/jackal/1313084/784dc2ee-4e2e-4bce-aee0-bfaadde18e85_W460_H227.jpg",
+                    "width": 460,
+                    "height": 227,
+                    "aspectRatio": 2.02
+                  },
+                  "W704H348": {
+                    "url": "https://mf-static-ssl.more.tv/jackal/1313084/784dc2ee-4e2e-4bce-aee0-bfaadde18e85_W704_H348.jpg",
+                    "width": 704,
+                    "height": 348,
+                    "aspectRatio": 2.02
+                  },
+                  "W960H474": {
+                    "url": "https://mf-static-ssl.more.tv/jackal/1313084/784dc2ee-4e2e-4bce-aee0-bfaadde18e85_W960_H474.jpg",
+                    "width": 960,
+                    "height": 474,
+                    "aspectRatio": 2.02
+                  },
+                  "W1260H622": {
+                    "url": "https://mf-static-ssl.more.tv/jackal/1313084/784dc2ee-4e2e-4bce-aee0-bfaadde18e85_W1260_H622.jpg",
+                    "width": 1260,
+                    "height": 622,
+                    "aspectRatio": 2.02
+                  }
+                },
+                "PNG": {},
+                "SVG": {},
+                "PDF": {},
+                "WEBP": {
+                  "W176H87": {
+                    "url": "https://mf-static-ssl.more.tv/jackal/1313084/784dc2ee-4e2e-4bce-aee0-bfaadde18e85_W176_H87.webp",
+                    "width": 176,
+                    "height": 87,
+                    "aspectRatio": 2.02
+                  },
+                  "W352H174": {
+                    "url": "https://mf-static-ssl.more.tv/jackal/1313084/784dc2ee-4e2e-4bce-aee0-bfaadde18e85_W352_H174.webp",
+                    "width": 352,
+                    "height": 174,
+                    "aspectRatio": 2.02
+                  },
+                  "W460H227": {
+                    "url": "https://mf-static-ssl.more.tv/jackal/1313084/784dc2ee-4e2e-4bce-aee0-bfaadde18e85_W460_H227.webp",
+                    "width": 460,
+                    "height": 227,
+                    "aspectRatio": 2.02
+                  },
+                  "W704H348": {
+                    "url": "https://mf-static-ssl.more.tv/jackal/1313084/784dc2ee-4e2e-4bce-aee0-bfaadde18e85_W704_H348.webp",
+                    "width": 704,
+                    "height": 348,
+                    "aspectRatio": 2.02
+                  },
+                  "W960H474": {
+                    "url": "https://mf-static-ssl.more.tv/jackal/1313084/784dc2ee-4e2e-4bce-aee0-bfaadde18e85_W960_H474.webp",
+                    "width": 960,
+                    "height": 474,
+                    "aspectRatio": 2.02
+                  },
+                  "W1260H622": {
+                    "url": "https://mf-static-ssl.more.tv/jackal/1313084/784dc2ee-4e2e-4bce-aee0-bfaadde18e85_W1260_H622.webp",
+                    "width": 1260,
+                    "height": 622,
+                    "aspectRatio": 2.02
+                  }
+                },
+                "MPEG": {},
+                "AVIF": {}
+              }
+            },
+            {
+              "type": "Live",
+              "description": "Оформи подписку для просмотра",
+              "items": [
+                {
+                  "title": "Популярные и платные телеканалы"
+                },
+                {
+                  "title": "Доступ к российским сериалам до эфира на ТВ"
+                },
+                {
+                  "title": "Зарубежные премьеры одновременно с миром"
+                }
+              ],
+              "payButton": {
+                "isActive": false,
+                "payButtonText": "",
+                "payButtonColor": "",
+                "payButtonTextColor": ""
+              },
+              "substrateGallery": {
+                "JPEG": {},
+                "PNG": {},
+                "SVG": {},
+                "PDF": {},
+                "WEBP": {},
+                "MPEG": {},
+                "AVIF": {}
+              }
+            },
+            {
+              "type": "LK",
+              "description": "Оформи подписку и получи полный доступ к more.tv",
+              "items": [
+                {
+                  "title": "Сериалы, снятые специально для more.tv"
+                },
+                {
+                  "title": "Мировые премьеры от HBO Max, Hulu, FOXNOW"
+                },
+                {
+                  "title": "Российские сериалы до выхода на ТВ"
+                },
+                {
+                  "title": "Прямые трансляции и записи боев UFC"
+                }
+              ],
+              "payButton": {
+                "isActive": false,
+                "payButtonText": "",
+                "payButtonColor": "",
+                "payButtonTextColor": ""
+              },
+              "substrateGallery": {
+                "JPEG": {},
+                "PNG": {},
+                "SVG": {},
+                "PDF": {},
+                "WEBP": {},
+                "MPEG": {},
+                "AVIF": {}
+              }
+            },
+            {
+              "type": "VOD",
+              "description": "Оформи подписку для просмотра",
+              "items": [
+                {
+                  "title": "Доступ к российским сериалам до эфира на ТВ"
+                },
+                {
+                  "title": "Зарубежные премьеры одновременно с миром"
+                },
+                {
+                  "title": "Просмотр без рекламы"
+                }
+              ],
+              "payButton": {
+                "isActive": false,
+                "payButtonText": "",
+                "payButtonColor": "",
+                "payButtonTextColor": ""
+              },
+              "substrateGallery": {
+                "JPEG": {},
+                "PNG": {},
+                "SVG": {},
+                "PDF": {},
+                "WEBP": {},
+                "MPEG": {},
+                "AVIF": {}
+              }
+            }
+          ],
+          "state": "AVAILABLE",
+          "tariffs": [
+            {
+              "id": 3,
+              "name": "Базовый на месяц",
+              "price": {
+                "amount": 299,
+                "currency": "RUB"
+              },
+              "changePrice": {
+                "amount": 299,
+                "currency": "RUB"
+              },
+              "duration": 2592000,
+              "productId": "more.tv.base.month",
+              "tariffModifiers": {
+                "googleFreeTrialEligible": false,
+                "appleIntroductoryOfferEligible": false,
+                "mapFreeTrialEligible": true
+              },
+              "isAutoRenewing": true,
+              "paymentMethods": [
+                {
+                  "id": 4,
+                  "name": "",
+                  "paymentSystemId": 1,
+                  "type": "MAP_PAYMENTS",
+                  "trial": {
+                    "duration": 7
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "trackInfo": {
+        "project": {
+          "id": 679,
+          "hubId": 19365,
+          "title": "Битва интерьеров",
+          "description": "Участники шоу — две семьи. Цель — сделать ремонт в одной из комнат своей квартиры. Дизайн-проект помещения и его воплощение полностью лежит на плечах участников. Условия равны: сходный метраж, одинаковый бюджет и, конечно, срок — всего неделя.",
+          "hasRightAvod": true,
+          "hasRightSvod": true,
+          "hasRightFree": false,
+          "projectCategory": "TV_PROGRAMME",
+          "canonicalUrl": "/bitva_interierov"
+        },
+        "season": {
+          "id": 1284,
+          "hubId": 2111,
+          "title": "Сезон 1",
+          "description": "",
+          "canonicalUrl": "/bitva_interierov/1_sezon"
+        },
+        "track": {
+          "id": 19860,
+          "hubId": 19363,
+          "title": "1 выпуск",
+          "description": "",
+          "hasRightAvod": true,
+          "hasRightSvod": true,
+          "hasRightFree": false,
+          "viewType": "NORMAL",
+          "canonicalUrl": "/bitva_interierov/1_sezon/1_vypusk"
+        }
+      },
+      "subscriptions": null
+    }
+  }
+}

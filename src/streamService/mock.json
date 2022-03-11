@@ -1,0 +1,56 @@
+{
+  "nodrm": [
+    [
+      {
+        "protocol": "HLS",
+        "drm_type": null,
+        "ls_url": null,
+        "url": "https://anubis.preprod.more.tv/video/file/52e37a6fcca1a779ae66575538a02cb2/1617477739/1066166.live",
+        "manifest_expires_at": 1617477739
+      },
+      {
+        "protocol": "DASH",
+        "drm_type": null,
+        "ls_url": null,
+        "url": "https://anubis.preprod.more.tv/video/file/8c1d2a2e33a4796a3cac77b9aa619c0d/1617477739/1066166.mpd",
+        "manifest_expires_at": 1617477739
+      }
+    ]
+  ],
+  "drm": [
+    [
+      {
+        "protocol": "DASH",
+        "drm_type": "widevine",
+        "ls_url": "https://ctc.drmnow.ru/widevine",
+        "url": "https://anubis.preprod.more.tv/vod/1/dash/wv_pr/BeHmWN5Ep54_48NS2J35XA/0531638f8011df7d0033c6d95c571fd8-,q1,q2,q3,.mp4.urlset/manifest.mpd?s=4J_A73yFArkQi9GLBA_BIQ&e=1611684390&track_id=458651",
+        "manifest_expires_at": 1611684390,
+        "id": 1
+      },
+      {
+        "protocol": "DASH",
+        "drm_type": "playready",
+        "ls_url": "https://ctc.drmnow.ru/playready/rightsmanager.asmx",
+        "url": "https://anubis.preprod.more.tv/vod/1/dash/wv_pr/BeHmWN5Ep54_48NS2J35XA/0531638f8011df7d0033c6d95c571fd8-,q1,q2,q3,.mp4.urlset/manifest.mpd?s=4J_A73yFArkQi9GLBA_BIQ&e=1611684390&track_id=458651",
+        "manifest_expires_at": 1611684390,
+        "id": 2
+      },
+      {
+        "protocol": "MSS",
+        "drm_type": "playready",
+        "ls_url": "https://ctc.drmnow.ru/playready/rightsmanager.asmx",
+        "url": "https://anubis.preprod.more.tv/vod/1/mss/pr/YIgG0WBLRQJW6bXwTbUlMg/0531638f8011df7d0033c6d95c571fd8-,q1,q2,q3,.ism/manifest?s=NE6Fq0FRWz-wxSY1eClTYg&e=1611684390&track_id=458651",
+        "manifest_expires_at": 1611684390,
+        "id": 3
+      },
+      {
+        "protocol": "HLS",
+        "drm_type": "fairplay",
+        "ls_url": "https://ctc.drmnow.ru/fairplay",
+        "url": "https://anubis.preprod.more.tv/vod/1/hls/fp/0OptnrOxEb-BJtKGo_EmgA/0531638f8011df7d0033c6d95c571fd8-,q1,q2,q3,.mp4.urlset/master.m3u8?s=xWXqDsR2IhPqeIaynDgWzg&e=1611684390&track_id=458651",
+        "manifest_expires_at": 1611684390,
+        "id": 4
+      }
+    ]
+  ]
+}
